@@ -68,7 +68,7 @@ The Smart Dustbin uses an ultrasonic sensor and servo motor to detect user prese
 ## 📚 Report
 
 > A full technical report is included in this repository as `Smart_dustbin_report.docx` 
-
+![Smart Dustbin Prototype](image.jpg)
 ---
 
 ## 🏫 University Info
